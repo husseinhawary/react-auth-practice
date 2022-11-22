@@ -7,6 +7,7 @@ This project for practicing react auth and based on this course https://www.udem
 - Login
 - Change Password
 - Validate routes based on auth
+- Logout
 
 ## Available Scripts
 
